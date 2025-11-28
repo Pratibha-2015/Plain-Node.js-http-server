@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "email": "amit.sharma@example.com",
+      "age": 28,
+      "role": "developer"
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "email": "priya.verma@example.com",
+      "age": 32,
+      "role": "designer"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Kulkarni",
+      "email": "rohan.kulkarni@example.com",
+      "age": 35,
+      "role": "manager"
+    },
+    {
+      "id": 4,
+      "name": "Sneha Patil",
+      "email": "sneha.patil@example.com",
+      "age": 26,
+      "role": "developer"
+    },
+    {
+      "id": 5,
+      "name": "Vikas Nair",
+      "email": "vikas.nair@example.com",
+      "age": 30,
+      "role": "tester"
+    },
+    {
+      "id": 6,
+      "name": "Pratibha2",
+      "email": "pratibhat@example.com",
+      "age": 33
+    },
+    {
+      "id": 7,
+      "name": "Prashik",
+      "email": "Prashikt@example.com",
+      "age": 12
+    }
+  ]
+}

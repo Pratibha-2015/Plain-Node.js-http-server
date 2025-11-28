@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with Node.js",
+      "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "date": "2025-11-02"
+    },
+    {
+      "id": 2,
+      "title": "Working with JSON in JavaScript",
+      "content": "JSON (JavaScript Object Notation) is a lightweight data interchange format.",
+      "date": "2025-10-15"
+    },
+    {
+      "id": 3,
+      "title": "Building RESTful APIs with Node.js",
+      "content": "REST (Representational State Transfer) is an architectural style for designing networked applications.",
+      "date": "2025-11-25"
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Express.js",
+      "content": "Express is a minimal and flexible Node.js web application framework.",
+      "date": "2025-11-30"
+    },
+    {
+      "id": 5,
+      "title": "Testing Node.js Applications",
+      "content": "Testing is an important part of application development.",
+      "date": "2025-10-15"
+    },
+    {
+      "id": 6,
+      "title": "Test",
+      "content": "Hello world",
+      "date": "2025-11-28"
+    },
+    {
+      "id": 7,
+      "title": "software",
+      "content": "Software",
+      "date": "2025-11-28"
+    }
+  ]
+}
